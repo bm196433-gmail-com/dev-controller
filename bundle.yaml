@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "bm196433-gmail-com-dev-controller"
+description: "CloudBees CI configuration bundle for the bm196433-gmail-com dev-controller Controller"
+availabilityPattern: "cloudbees-ci-casc-workshop/bm196433-gmail-com/dev-controller"
+parent: "base"
